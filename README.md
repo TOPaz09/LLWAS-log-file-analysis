@@ -4,7 +4,7 @@ This program can scanning 1 year data from LLWAS log file and find wind shear or
 
 ### How to install?
 
-Download and extract zip files on your PC.
+Download and extract TOPAZ_LLWAS_Analyze.zip files on your PC.
 
 
 ### How to use?
