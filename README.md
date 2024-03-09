@@ -19,11 +19,11 @@ Download and extract TOPAZ_LLWAS_Analyze.zip files on your PC.
 
 ![alt text](https://github.com/TOPaz09/LLWAS-Log-file-analysis/blob/main/LLWAS_logfile_Analyzer/example_output/Log_show.png?raw=true)
 
-[Bar chart output]
+[Example bar chart output]
 
 ![alt text](https://github.com/TOPaz09/LLWAS-Log-file-analysis/blob/main/LLWAS_logfile_Analyzer/example_output/barchart_2023_vaisala_llwas.png?raw=true)
 
-[Pie chart output]
+[Example pie chart output]
 
 ![alt text](https://github.com/TOPaz09/LLWAS-Log-file-analysis/blob/main/LLWAS_logfile_Analyzer/example_output/piechart_2023_vaisala_llwas.png?raw=true)
 
@@ -31,7 +31,7 @@ Download and extract TOPAZ_LLWAS_Analyze.zip files on your PC.
 
 ![alt text](https://github.com/TOPaz09/LLWAS-Log-file-analysis/blob/main/LLWAS_logfile_Analyzer/example_output/Max_spd_2023_vaisala_llwas.png?raw=true)
 
-[Excel output report]
+[Example excel output report]
 
 ![alt text](https://github.com/TOPaz09/LLWAS-Log-file-analysis/blob/main/LLWAS_logfile_Analyzer/example_output/excel_output.png?raw=true)
 
